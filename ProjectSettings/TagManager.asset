@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fire
+  - Healthbar
+  - Money
+  - LifeCount
+  - IBASHA
+  - Ladder
+  - Obstacle
+  - Health_Tag
+  - FallDetectorlvl2
+  - FallDetectorlvl1
+  - FallDetectorlvl3
+  - SkeletonEnemy
+  - Bosslvl1
+  - Bosslvl2
+  - Bosslvl3
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - tiles
+  - extra
+  - Ground
+  - 
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3773117007
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: tiles
+    uniqueID: 3098321913
+    locked: 0
+  - name: extras
+    uniqueID: 3991544823
+    locked: 0
+  - name: Foreground
+    uniqueID: 629363093
+    locked: 0
+  - name: Player
+    uniqueID: 3947372007
+    locked: 0
